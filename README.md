@@ -1,4 +1,6 @@
-# A Plethora of Games 🎮🎉 (https://dl.dropboxusercontent.com/scl/fi/o9bh1e9cnjtx07updwkfn/A-Plethora-of-Games.gif)
+# A Plethora of Games 🎮🎉 
+
+![A Plethora of Games](https://dl.dropboxusercontent.com/scl/fi/o9bh1e9cnjtx07updwkfn/A-Plethora-of-Games.gif)
 
 I assembled a number of games and tiny programs that I developed throughout the Code in Place course for my final project. 🎮💻🇹🇳 I dubbed it **"A Plethora of Games"** as it's essentially an entertaining mashup of what I've learnt, including basic guessing games, eye-catching visuals, and even some robot Karel puzzles. 🤖🎨🇹🇳
 
