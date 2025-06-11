@@ -1,7 +1,6 @@
 # A Plethora of Games 🎮🎉 
 
-![A Plethora of Games](https://github.com/user-attachments/assets/416c2a8b-f145-4ca0-9094-b86787fb3b42)
-
+![A Plethora of Games](https://github.com/user-attachments/assets/28b30c3b-8db3-401c-be56-04c8423c832d)
 
 I assembled a number of games and tiny programs that I developed throughout the Code in Place course for my final project. 🎮💻🇹🇳 I dubbed it **"A Plethora of Games"** as it's essentially an entertaining mashup of what I've learnt, including basic guessing games, eye-catching visuals, and even some robot Karel puzzles. 🤖🎨🇹🇳
 
