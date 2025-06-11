@@ -1,4 +1,6 @@
-# Code in Place 2025: My Final Submission 🚀💻✨
+# A Plethora of Games 🎮🎉
+
+## Code in Place 2025: My Final Submission 🚀💻✨
 
 Welcome to the README.md for my final project! This course has been an incredible journey, and I'm thrilled to share what I've learned. 🎓
 
