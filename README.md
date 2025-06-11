@@ -1,4 +1,4 @@
-# A Plethora of Games 🎮🎉 
+<h1 align="center">A Plethora of Games 🎮🎉</h1>
 
 ![A Plethora of Games](https://github.com/user-attachments/assets/28b30c3b-8db3-401c-be56-04c8423c832d)
 
