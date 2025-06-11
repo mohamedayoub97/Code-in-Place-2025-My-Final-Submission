@@ -1,6 +1,8 @@
 <h1 align="center">A Plethora of Games 🎮🎉</h1>
 
-![A Plethora of Games](https://github.com/user-attachments/assets/28b30c3b-8db3-401c-be56-04c8423c832d)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/28b30c3b-8db3-401c-be56-04c8423c832d" width="400" alt="A Plethora of Games">
+</p>
 
 I assembled a number of games and tiny programs that I developed throughout the Code in Place course for my final project. 🎮💻🇹🇳 I dubbed it **"A Plethora of Games"** as it's essentially an entertaining mashup of what I've learnt, including basic guessing games, eye-catching visuals, and even some robot Karel puzzles. 🤖🎨🇹🇳
 
