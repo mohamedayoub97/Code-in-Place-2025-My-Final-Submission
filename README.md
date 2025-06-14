@@ -38,8 +38,8 @@ Here's a list of the projects I've completed throughout the course, ordered from
 
 | Project Name                                | Description                                         |
 |---------------------------------------------|-----------------------------------------------------|
-| [Microsoft Paint](https://codeinplace.stanford.edu/cip5/share/Rv3SU3ZylZmTnkgfkqEk)| 🎨🖌️ Simple drawing app to unleash your creativity on a canvas! Pick tools & colors, then draw. ✨ |
-| [Shoot the Target in Graphics](https://codeinplace.stanford.edu/cip5/share/vUmvK2fK2CjTKobMkDdl) 🎯🔫💥 | Aim and hit moving targets in this fun precision game. |
+| [Microsoft Paint](https://codeinplace.stanford.edu/cip5/share/Rv3SU3ZylZmTnkgfkqEk) 🎨🖌️✨ | Draw, erase, create! Your mini-Paint app. 🚀 |
+| [Shoot the Target in Graphics](https://codeinplace.stanford.edu/cip5/share/vUmvK2fK2CjTKobMkDdl) 🎯🔫💥 | Aim and hit moving targets in this fun precision game.|
 | [Guess Game in Graphics](https://codeinplace.stanford.edu/cip5/share/DXj9gtVcULzs9usMFNPK) 🔢🔮⏱️ | Guess the secret text before time runs out!        |
 | [Game of RPS in Graphics](https://codeinplace.stanford.edu/cip5/share/JOhSmYUhuPIOa2uZws4q) ✊📄✂️ | Play Rock, Paper, Scissors with a graphical twist.   |
 | [Solar system in Graphics](https://codeinplace.stanford.edu/cip5/share/nsyagTXhi0uoDCkXBg9I) 🪐✨🚀 | Explore a mini solar system simulation with planets. |
